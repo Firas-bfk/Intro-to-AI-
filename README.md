@@ -47,7 +47,7 @@ Your Friend AI starter Pack
 
 
 
-> Option 2 USe Visual Studio Online
+> Option 2 Use Visual Studio Online
 
 Build it using Visual Studio Online
 
